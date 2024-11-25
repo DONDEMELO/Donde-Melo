@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DONDE MELO</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>DONDE <span>MELO</span></h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#menu">Menú</a></li>
+                <li><a href="#ubicacion">Ubicación</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="menu">
+            <h2>Menú</h2>
+            <div class="items">
+                <div class="item">
+                    <h3>Hamburguesa Clásica</h3>
+                    <p>Deliciosa hamburguesa con carne a la parrilla, queso y vegetales frescos.</p>
+                    <p><strong>$10.000</strong></p>
+                </div>
+                <div class="item">
+                    <h3>Perro Caliente Especial</h3>
+                    <p>Salchicha, papitas trituradas, salsas y nuestro toque especial.</p>
+                    <p><strong>$8.000</strong></p>
+                </div>
+                <div class="item">
+                    <h3>Papas a la Francesa</h3>
+                    <p>Porción generosa de papas crujientes.</p>
+                    <p><strong>$5.000</strong></p>
+                </div>
+            </div>
+        </section>
+        <section id="ubicacion">
+            <h2>Ubicación</h2>
+            <p>Estamos en el corazón de la ciudad. Visítanos en:</p>
+            <p><strong>Calle 123 #45-67, Ciudad Central</strong></p>
+        </section>
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <p>Para pedidos y consultas:</p>
+            <p><strong>Teléfono:</strong> +57 300 123 4567</p>
+            <p><strong>Email:</strong> contacto@dondemelo.com</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 DONDE MELO. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
